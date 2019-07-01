@@ -2,9 +2,9 @@
 Budgeting web app built with Spring Boot and Angular
 
 ## Install
-// use lastest stable node version 10.0.16
-nvm use 10.0.16
-// install angular cli
-npm install -g @angular/cli
-// run server locally on localhost://4200
-ng serve 
+1. nvm use 10.0.16
+    * use lastest stable node version 10.0.16
+2. npm install -g @angular/cli
+    * install angular cli
+3. ng serve 
+    * run server locally on localhost://4200
